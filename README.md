@@ -11,4 +11,4 @@ A simple multi-player server to play tic-tac-toe in realtime.
 
 ## Frontend
 
-- [React Native](https://github.com/morintd/react-native-tic-tac-toe)
+- [React Native](https://github.com/morintd/react-native-animations/tree/main/tictactoern)
